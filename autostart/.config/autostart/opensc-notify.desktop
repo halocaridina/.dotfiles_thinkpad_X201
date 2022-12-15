@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/opensc-notify &
+Hidden=false
+X-MATE-Autostart-enabled=true
+Name[en_US]=OpenSC-Notify
+Name=Opensc-Notify
+Comment[en_US]=Monitor smartcard presence
+Comment=Monitor smartcard presence

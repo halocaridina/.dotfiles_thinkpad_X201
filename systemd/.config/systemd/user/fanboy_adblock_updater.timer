@@ -1,0 +1,10 @@
+[Unit]
+Description=Notifications for Fanboy Adblock Updates
+
+[Timer]
+OnBootSec=12min
+OnUnitActiveSec=8h
+Unit=fanboy_adblock_updater.service
+
+[Install]
+WantedBy=timers.target

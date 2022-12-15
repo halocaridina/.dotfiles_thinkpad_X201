@@ -1,0 +1,55 @@
+.tooltip {
+     font-size: 12px;
+     border-radius: 4px;
+     border: 0px;
+     border-width: 0px;
+     border-style: solid;
+     padding: 5px 5px 5px 5px;
+     margin: 0px 0px 0px 0px;
+}
+
+.tooltip.background {
+     background-color: rgba(79, 81, 84, 0.90);
+     background-clip: padding-box;
+}
+
+tooltip {
+     font-size: 12px;
+     border-radius: 4px;
+     border: 0px;
+     border-width: 0px;
+     border-style: solid;
+     padding: 5px 5px 5px 5px;
+     margin: 0px 0px 0px 0px;
+}
+
+tooltip.background {
+     background-color: rgba(79, 81, 84, 0.90);
+     background-clip: padding-box;
+}
+
+#notification-plugin-4* {
+    -gtk-icon-style: regular;
+    color: #D3D3D3;
+}
+
+#pulseaudio-14* {
+    -gtk-icon-style: regular;
+    color: #D3D3D3;
+}
+
+#genmon-15* {
+    -gtk-icon-style: regular;
+    color: #D3D3D3;
+}
+
+#genmon-26* {
+    -gtk-icon-style: regular;
+    color: #D3D3D3;
+}
+
+#genmon-29* {
+    -gtk-icon-style: regular;
+    color: #D3D3D3;
+}
+

@@ -1,0 +1,12 @@
+[Unit]
+Description=Notifications for Fanboy Adblock Updates
+
+[Service]
+Nice=19
+IOSchedulingClass=2
+IOSchedulingPriority=7
+ExecStart=/usr/local/bin/adblock_updater.sh
+
+[Install]
+WantedBy=default.target
+

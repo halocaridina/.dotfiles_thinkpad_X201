@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/xcalib -d :0 /home/srsantos/.icm_profiles/x200.icc
+Hidden=false
+X-MATE-Autostart-enabled=false
+Name=Xcalib
+Name[en_US]=Xcalib
+Comment=Autoload monitor color profile
+Comment[en_US]=Autoload monitor color profile
+

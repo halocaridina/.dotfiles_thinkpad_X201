@@ -1,0 +1,55 @@
+!#include "/home/srsantos/.local/share/Xresources/xft.fonts"
+
+!#include "/home/srsantos/.local/share/Xresources/URxvt_default.fonts"
+!#include "/home/srsantos/.local/share/Xresources/URxvt_default.settings"
+!#include "/home/srsantos/.local/share/Xresources/URxvt_default.colors"
+
+!#include "/home/srsantos/.local/share/Xresources/rofi.config"
+
+!#include "/home/srsantos/.local/share/Xresources/Xterm.settings"
+
+! Set cursor theme for system
+
+Xcursor.theme: Bluecurve
+Xcursor.size:  24
+
+! Xft font settings
+
+Xft.dpi:        96
+Xft.antialias:  true
+Xft.hinting:    true
+Xft.rgba:       rgb
+Xft.hintstyle:  hintfull
+
+! Rofi settings
+
+rofi.separator-style: dash
+rofi.font: Roboto Mono Medium for Powerline 10
+rofi.bc: #396EB4
+rofi.bw: 0
+rofi.loc: 0
+rofi.padding: 200
+rofi.fixed-num-lines: false
+rofi.hmode: false
+rofi.terminal: termite
+rofi.ssh-command: termite -e '{ssh-client} {host}' --class=ssh
+rofi.ssh-set-title: true
+rofi.key: F12
+rofi.rkey: mod1+F2
+rofi.skey: mod1+F3
+rofi.hide-scrollbar: true
+rofi.sidebar-mode: true
+rofi.fullscreen: true
+rofi.switchers: window,drun,ssh
+
+xscreensaver.newLoginCommand:
+xscreensaver.Dialog.headingFont: -*-terminus-medium-*-*-*-12-*-*-*-*-*-iso10646-*
+xscreensaver.Dialog.bodyFont: -*-terminus-medium-*-*-*-12-*-*-*-*-*-iso10646-*
+xscreensaver.Dialog.labelFont: -*-terminus-medium-*-*-*-12-*-*-*-*-*-iso10646-*
+xscreensaver.Dialog.unameFont: -*-terminus-medium-*-*-*-12-*-*-*-*-*-iso10646-*
+xscreensaver.Dialog.buttonFont: -*-terminus-medium-*-*-*-12-*-*-*-*-*-iso10646-*
+xscreensaver.Dialog.dateFont: -*-terminus-medium-*-*-*-12-*-*-*-*-*-iso10646-*
+xscreensaver.passwd.passwdFont: -*-terminus-medium-*-*-*-12-*-*-*-*-*-iso10646-*
+xscreensaver.font: -*-terminus-medium-*-*-*-12-*-*-*-*-*-iso10646-*
+xscreensaver.passwdTimeout: 0:00:01
+

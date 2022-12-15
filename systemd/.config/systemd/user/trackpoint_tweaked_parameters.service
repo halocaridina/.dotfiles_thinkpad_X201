@@ -1,0 +1,10 @@
+[Unit]
+Description=Watch for, and modify, Trackpoint parameters
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/sudo /usr/local/bin/trackpad_sensitivity_speed_press-to-select.sh
+
+[Install]
+WantedBy=default.target
+
