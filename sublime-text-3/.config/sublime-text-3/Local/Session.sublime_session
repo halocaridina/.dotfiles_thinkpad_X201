@@ -1,14 +1,20 @@
 {
 	"file_history":
 	[
-		"/home/srsantos/.dotfiles_thinkpad_X201_crucial/sublime-text-3/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
-		"/home/srsantos/.dotfiles_thinkpad_X201_crucial/sublime-text-3/.config/sublime-text-3/Packages/User/Preferences.sublime-settings"
+		"/usr/local/bin/pulseaudio-ctl_local",
+		"/home/srsantos/.zpreztorc",
+		"/home/srsantos/Desktop/prompt_paradox_santos_setup",
+		"/home/srsantos/.zprezto/modules/prompt/functions/prompt_paradox_santos_setup",
+		"/home/srsantos/.zprezto/modules/prompt/functions/prompt_paradox_santosv2_setup",
+		"/home/srsantos/Desktop/prompt_paradox_santosv2_setup",
+		"/home/srsantos/.dotfiles_thinkpad_X201_crucial/sublime-text-3/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/srsantos/.dotfiles_thinkpad_X201_crucial/sublime-text-3/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings"
 	],
 	"folder_history":
 	[
 	],
-	"last_version": 4145,
-	"last_window_id": 17,
+	"last_version": 4146,
+	"last_window_id": 18,
 	"log_indexing": false,
 	"next_update_check": 1671147639,
 	"settings":
@@ -64,11 +70,17 @@
 			},
 			"file_history":
 			[
+				"/usr/local/bin/pulseaudio-ctl_local",
+				"/home/srsantos/.zpreztorc",
+				"/home/srsantos/Desktop/prompt_paradox_santos_setup",
+				"/home/srsantos/.zprezto/modules/prompt/functions/prompt_paradox_santos_setup",
+				"/home/srsantos/.zprezto/modules/prompt/functions/prompt_paradox_santosv2_setup",
+				"/home/srsantos/Desktop/prompt_paradox_santosv2_setup",
 				"/usr/local/bin/vpn_pid_checker.sh"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 26.0
 			},
 			"find_in_files":
 			{
@@ -82,6 +94,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"mkd"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -100,7 +113,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 26.0
 			},
 			"input":
 			{
@@ -114,7 +127,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 0.0
+				"height": 48.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -201,11 +214,17 @@
 			},
 			"file_history":
 			[
+				"/usr/local/bin/pulseaudio-ctl_local",
+				"/home/srsantos/.zpreztorc",
+				"/home/srsantos/Desktop/prompt_paradox_santos_setup",
+				"/home/srsantos/.zprezto/modules/prompt/functions/prompt_paradox_santos_setup",
+				"/home/srsantos/.zprezto/modules/prompt/functions/prompt_paradox_santosv2_setup",
+				"/home/srsantos/Desktop/prompt_paradox_santosv2_setup",
 				"/usr/local/bin/vpn_pid_checker.sh"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 26.0
 			},
 			"find_in_files":
 			{
@@ -219,6 +238,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"mkd"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -237,7 +257,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 26.0
 			},
 			"input":
 			{
@@ -249,10 +269,10 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,27,1280,747,1280,800,0",
+			"position": "0,1,0,0,0,0,27,1366,715,1366,768,0",
 			"replace":
 			{
-				"height": 0.0
+				"height": 48.0
 			},
 			"save_all_on_build": true,
 			"select_file":

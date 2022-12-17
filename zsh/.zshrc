@@ -132,6 +132,7 @@ alias rm_DS_Stores='find . -name ".DS_Store" -delete'
 #alias pulseaudio-ctl='/usr/local/bin/pulseaudio-ctl_local'
 
 alias music_mpv='mpv --no-video'
+alias gui_mpv='mpv --player-operation-mode=pseudo-gui'
 alias music_mpv_random_playlist='mpv --no-video --shuffle --playlist <(find "$PWD" -type f)'
 
 alias webcam_screenshot='mpv av://v4l2:/dev/video0'

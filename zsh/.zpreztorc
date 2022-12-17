@@ -23,7 +23,7 @@ zstyle ':prezto:load' zfunction 'zargs' 'zmv'
 zstyle ':prezto:*:*' case-sensitive 'yes'
 
 # Set prompt
-zstyle ':prezto:module:prompt' theme 'paradox_santos'
+zstyle ':prezto:module:prompt' theme 'paradox_santosv2'
 
 # Auto convert .... to ../..
 zstyle ':prezto:module:editor' dot-expansion 'yes'

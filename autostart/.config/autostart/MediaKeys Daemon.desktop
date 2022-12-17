@@ -2,11 +2,12 @@
 Encoding=UTF-8
 Version=0.9.4
 Type=Application
-Name=MediaKeys Daemon
-Comment=Python wrapper for media keys
-Exec=/usr/local/bin/mkd.py -d
+Name=MediaKeys via PlayerCtl
+Comment=Script wrapper for media keys
+Exec=/usr/bin/playerctld daemon
 OnlyShowIn=XFCE;
 StartupNotify=false
 Terminal=false
 Hidden=false
+RunHook=0
 
