@@ -24,7 +24,6 @@ playlist_column_widths=190;190;190;190;
 shuffle=true
 repeat=false
 save_playlist=true
-current_ref=7
 
 [General]
 installed_version=1.3.4
