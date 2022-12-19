@@ -8,5 +8,5 @@ Exec=/usr/bin/setxkbmap -option caps:none
 OnlyShowIn=XFCE;
 StartupNotify=false
 Terminal=false
-Hidden=true
+Hidden=false
 

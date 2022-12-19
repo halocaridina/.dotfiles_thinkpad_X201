@@ -1,6 +1,12 @@
 {
 	"file_history":
 	[
+		"/home/srsantos/.icons/Alecive-Flatwoken-Apps-Start-Here-Xfce.svg",
+		"/home/srsantos/.icons/default/index.theme",
+		"/home/srsantos/.gtkrc-2.0",
+		"/home/srsantos/.config/gtk-3.0/gtk.css",
+		"/home/srsantos/.dotfiles_thinkpad_X220/sublime-text-3/.config/sublime-text-3/Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+		"/home/srsantos/.dotfiles_thinkpad_X220/sublime-text-3/.config/sublime-text-3/Packages/User/Mariana.sublime-color-scheme",
 		"/usr/local/bin/pulseaudio-ctl_local",
 		"/home/srsantos/.zpreztorc",
 		"/home/srsantos/Desktop/prompt_paradox_santos_setup",
@@ -14,7 +20,7 @@
 	[
 	],
 	"last_version": 4146,
-	"last_window_id": 18,
+	"last_window_id": 19,
 	"log_indexing": false,
 	"next_update_check": 1671147639,
 	"settings":
@@ -70,6 +76,10 @@
 			},
 			"file_history":
 			[
+				"/home/srsantos/.icons/Alecive-Flatwoken-Apps-Start-Here-Xfce.svg",
+				"/home/srsantos/.icons/default/index.theme",
+				"/home/srsantos/.gtkrc-2.0",
+				"/home/srsantos/.config/gtk-3.0/gtk.css",
 				"/usr/local/bin/pulseaudio-ctl_local",
 				"/home/srsantos/.zpreztorc",
 				"/home/srsantos/Desktop/prompt_paradox_santos_setup",
@@ -214,6 +224,10 @@
 			},
 			"file_history":
 			[
+				"/home/srsantos/.icons/Alecive-Flatwoken-Apps-Start-Here-Xfce.svg",
+				"/home/srsantos/.icons/default/index.theme",
+				"/home/srsantos/.gtkrc-2.0",
+				"/home/srsantos/.config/gtk-3.0/gtk.css",
 				"/usr/local/bin/pulseaudio-ctl_local",
 				"/home/srsantos/.zpreztorc",
 				"/home/srsantos/Desktop/prompt_paradox_santos_setup",
