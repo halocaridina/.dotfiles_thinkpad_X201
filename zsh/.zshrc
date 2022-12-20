@@ -78,6 +78,7 @@ alias fw_clear='sudo iptables-restore < /etc/iptables/empty.rules'
 alias fill_batteries_up="sudo tlp fullcharge"
 alias rfkill="sudo rfkill"
 
+alias list_all_installed_packages='pacman -Qe && pacman -Qm'
 alias pacupg='sudo pacman -Syyu'      # Synchronize with repositories and then upgrade packages that are out of date on the local system.
 alias pacin='sudo pacman -S'         # Install specific package(s) from the repositories
 alias pacins='sudo pacman -U'        # Install specific package not from the repositories but from a file
