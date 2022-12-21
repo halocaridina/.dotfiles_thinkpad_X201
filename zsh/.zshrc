@@ -142,7 +142,7 @@ alias webcam_ffmpeg_video='ffmpeg -f v4l2 -video_size 640x480 -thread_queue_size
 
 ## Export variables
 export PAGER='vimpager'
-export EDITOR=''
+export EDITOR='vim'
 export GCC_COLORS='error=01;38;5;160:warning=01;38;5;220:note=01;38;5;10:caret=01;38;5;33:locus=01:quote=01'
 export GREP_OPTIONS=
 export GREP_COLORS='fn=00;38;5;33:mc=00;36:ms=31:mt=01;38;5;200:ln=01;38;5;14'
