@@ -1,2 +1,2 @@
-# .dotfiles_thinkpad_X220_crucial
-Dotfiles for Thinkpad X220
+# .dotfiles_thinkpad_X201
+Dotfiles for Thinkpad X201
