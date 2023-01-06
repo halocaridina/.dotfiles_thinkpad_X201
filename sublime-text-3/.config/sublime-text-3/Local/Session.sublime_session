@@ -1,6 +1,7 @@
 {
 	"file_history":
 	[
+		"/home/srsantos/.vim/bundle/vim-airline/autoload/airline/init.vim",
 		"/home/srsantos/.dotfiles_thinkpad_X220/sublime-text-3/.config/sublime-text-3/Packages/User/Mariana.sublime-color-scheme",
 		"/home/srsantos/.dotfiles_thinkpad_X220/sublime-text-3/.config/sublime-text-3/Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
 		"/home/srsantos/.icons/Alecive-Flatwoken-Apps-Start-Here-Xfce.svg",
@@ -19,7 +20,7 @@
 	"folder_history":
 	[
 	],
-	"last_version": 4146,
+	"last_version": 4147,
 	"last_window_id": 20,
 	"log_indexing": false,
 	"next_update_check": 1671147639,
@@ -76,6 +77,7 @@
 			},
 			"file_history":
 			[
+				"/home/srsantos/.vim/bundle/vim-airline/autoload/airline/init.vim",
 				"/home/srsantos/.icons/Alecive-Flatwoken-Apps-Start-Here-Xfce.svg",
 				"/home/srsantos/.icons/default/index.theme",
 				"/home/srsantos/.gtkrc-2.0",
@@ -104,6 +106,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"status",
 					"mkd"
 				],
 				"highlight": true,
@@ -224,6 +227,7 @@
 			},
 			"file_history":
 			[
+				"/home/srsantos/.vim/bundle/vim-airline/autoload/airline/init.vim",
 				"/home/srsantos/.icons/Alecive-Flatwoken-Apps-Start-Here-Xfce.svg",
 				"/home/srsantos/.icons/default/index.theme",
 				"/home/srsantos/.gtkrc-2.0",
@@ -252,6 +256,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"status",
 					"mkd"
 				],
 				"highlight": true,
@@ -283,7 +288,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,27,1366,715,1366,768,0",
+			"position": "0,1,0,0,0,0,27,1280,747,1280,800,0",
 			"replace":
 			{
 				"height": 48.0

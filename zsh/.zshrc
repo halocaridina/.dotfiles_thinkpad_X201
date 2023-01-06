@@ -125,6 +125,7 @@ alias less='less -e -i -M -R -q'
 alias sm_readers_ls='opensc-tool -l'
 alias glances='glances --hide-kernel-threads -1'
 alias open='exo-open'
+alias clear='clear -x'
 
 alias update_prezto='cd $ZPREZTODIR && git pull && git submodule sync --recursive && git submodule update --init --recursive && cd -'
 

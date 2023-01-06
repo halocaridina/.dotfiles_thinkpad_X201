@@ -9,6 +9,7 @@ call vundle#begin()
 " call vundle#begin('~/some/path/here')
 
 " let Vundle manage Vundle, required
+
 Plugin 'gmarik/Vundle.vim'
 
 Plugin 'xolox/vim-colorscheme-switcher'
@@ -31,7 +32,7 @@ Plugin 'SearchComplete'
 
 Plugin 'PotatoesMaster/i3-vim-syntax'
 
-Plugin 'bling/vim-airline'
+Plugin 'vim-airline/vim-airline'
 
 Plugin 'vim-airline/vim-airline-themes'
 

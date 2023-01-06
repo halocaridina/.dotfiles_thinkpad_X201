@@ -55,6 +55,8 @@
     transparency:     "screenshot";
     border:           0px;
     padding:          180px;
+    width:            100%;
+    height:           100%;
 }
 #mainbox {
     border:  0;
@@ -157,5 +159,10 @@
     str:        ":";
     margin:     0px 0.3em 0em 0em ;
     text-color: @normal-foreground;
+}
+
+element-text, element-icon {
+    background-color: inherit;
+    text-color:       inherit;
 }
 
