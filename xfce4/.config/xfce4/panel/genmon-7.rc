@@ -1,0 +1,6 @@
+Command=/usr/local/bin/kernel_upgrade_reboot_test.sh
+UseLabel=0
+Text=(genmon)
+UpdatePeriod=120000
+Font=Roboto Medium 12
+

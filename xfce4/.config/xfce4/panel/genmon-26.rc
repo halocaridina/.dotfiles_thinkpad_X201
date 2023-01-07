@@ -1,0 +1,6 @@
+Command=/usr/local/bin/genmon_temp.sh
+UseLabel=0
+Text=
+UpdatePeriod=5000
+Font=Roboto Condensed, 11
+
