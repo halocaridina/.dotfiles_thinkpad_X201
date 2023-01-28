@@ -1,3 +1,11 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
+[/home/srsantos/Desktop/libfprint-0.99.0+1+ga1e46de-1-x86_64.pkg.tar.xz]
+row=2
+col=0
+
+[/home/srsantos/Desktop/fprintd-0.9.0-1-x86_64.pkg.tar.xz]
+row=1
+col=0
+

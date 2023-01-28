@@ -15,6 +15,7 @@
         <value type="int" value="14"/>
         <value type="int" value="3"/>
         <value type="int" value="7"/>
+        <value type="int" value="17"/>
         <value type="int" value="1"/>
         <value type="int" value="5"/>
         <value type="int" value="2"/>
@@ -247,6 +248,9 @@
       <property name="rows" type="uint" value="2"/>
     </property>
     <property name="plugin-13" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-17" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
     </property>
   </property>
